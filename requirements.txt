@@ -12,7 +12,7 @@ enum34==1.1.6
 flask==1.0.2
 flask_cors==3.0.6
 future==0.18.2
-futures==3.3.0
+futures==3.0.0
 gunicorn==20.0.4
 idna==2.9
 ipaddress==1.0.17
